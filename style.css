@@ -1,0 +1,25 @@
+.c1{
+     border:#ffffff 1px solid; box-shadow: 1px -0px 10px #ffffff52;
+     border-radius: 25px;
+}
+
+.c2{
+     border:#ffffff 1px solid; box-shadow: 1px -0px 10px #ffffff52;
+     border-radius: 25px;
+     padding: 15px;
+}
+p{
+    font-family: cursive;
+}
+
+h1{
+     font-family:cursive;
+     font-size: 30px;
+     color: #1900ff;
+}
+body{
+     margin:5px;
+     height: 100vh;
+     
+}
+
